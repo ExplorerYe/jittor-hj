@@ -7,4 +7,4 @@ jittor 1.3.8
 
 gitlink开源仓库地址：[https://www.gitlink.org.cn/longinhit/jittor-qwe-promptsrc_jittor](https://www.gitlink.org.cn/ymx1026371693/saitiyi-hejie)
 
-github开源仓库地址：https://github.com/ExplorerYe/jittor-h
+github开源仓库地址：[https://github.com/ExplorerYe/jittor-h](https://github.com/ExplorerYe/jittor-hj)
